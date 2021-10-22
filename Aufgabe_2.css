@@ -1,0 +1,38 @@
+.Erste_div {
+    width: 820px;
+    height: 80px;
+    padding: 20px 0 0 10px;
+    border: 1px solid #000;
+    font-size: 20px;
+}
+
+.Zweite_div {
+    width: 1020px;
+    height: 80px;
+    padding: 20px 0 0 10px;
+    border: 1px solid #000;
+    font-size: 20px;
+    margin: 30px 0 0 0;
+}
+
+.Dritte_div {
+    width: 430px;
+    height: 80px;
+    padding: 20px 0 0 30px;
+    border: 1px solid #000;
+    font-size: 20px;
+    margin: 30px 0 0 0;
+    background-color: yellow;
+    float: left;
+}
+
+.Vierte_div {
+    width: 340px;
+    height: 40px;
+    padding: 20px 0 0 20px;
+    border: 1px solid #000;
+    font-size: 20px;
+    margin: 30px 0 0 15px;
+    background-color: #15df15;
+    float: left;
+}

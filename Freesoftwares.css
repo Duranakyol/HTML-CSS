@@ -1,0 +1,159 @@
+    body {
+        background: url(bg.gif)
+    }
+    
+    .hepsi {
+        width: 821px;
+        margin: 20px auto;
+    }
+    
+    .logo {
+        width: 229px;
+        height: 94px;
+        background: url(logo.gif)
+    }
+    
+    .menu {
+        width: 821px;
+        height: 42px;
+        background: url(menu_bg.gif)
+    }
+    
+    .orta {
+        width: 801px;
+        height: 730px;
+        background: #e9e5e2;
+        padding: 30px 0 0 20px;
+    }
+    
+    .alt {
+        width: 821px;
+        height: 0;
+    }
+    
+    .menu ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
+    .menu ul li {
+        float: left;
+    }
+    
+    .menu ul li a {
+        display: block;
+        width: 80px;
+        height: 30px;
+        font: bold 12px Tahoma;
+        color: #fff;
+        text-decoration: none;
+        padding: 12px;
+    }
+    
+    .menu ul li#home a {
+        display: block;
+        width: 80px;
+        height: 30px;
+        font: bold 12px Tahoma;
+        color: #fff;
+        text-decoration: none;
+        padding: 12px;
+        background: url(menu_bullet.gif) 30% 75% no-repeat;
+    }
+    
+    a:hover {
+        background: url(menu_bullet.gif) 30% 75% no-repeat;
+        ;
+    }
+    
+    .orta1 {
+        width: 456px;
+        height: 30px;
+        background: url(checked.gif) no-repeat;
+        float: left;
+        font: 20px Tahoma;
+        color: #24a4b7;
+        padding-left: 40px;
+    }
+    
+    .yazi1 {
+        font: bold 24px Tahoma;
+        color: #d95b27;
+    }
+    
+    .orta2 {
+        width: 441px;
+        height: 162px;
+        background: url(welcome_box.gif) 0px 35px no-repeat;
+        font: 12px Tahoma;
+        padding: 60px 40px 0 25px;
+        text-align: justify;
+        line-height: 17px;
+        float: left;
+    }
+    
+    .readmore {
+        width: 63px;
+        height: 19px;
+        background: url(read_more_bg.gif);
+        margin: 10px 0 0 350px;
+        padding: 4px 0 0 20px;
+    }
+    
+    .readmore a {
+        font: bold 11px tahoma;
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .readmore a:hover {
+        text-decoration: underline;
+    }
+    
+    .orta3 {
+        width: 187px;
+        height: 265px;
+        float: left;
+        margin: -5px 0 0 60px;
+    }
+    
+    .orta4 {
+        width: 466px;
+        height: 142px;
+        float: left;
+        font: bold 13px tahoma;
+        padding: 10px 0 0 30px;
+    }
+    
+    .orta4 ul {
+        list-style: none;
+    }
+    
+    .orta4 ul li {
+        display: block;
+        width: 402px;
+        height: 21px;
+        background: url(bullet_list.gif) no-repeat;
+        font: 11px tahoma;
+        padding: 4px 0 0 8px;
+    }
+    
+    .yazi3 {
+        font: bold 12px tahoma;
+    }
+    
+    .orta5 {
+        width: 288px;
+        height: 159px;
+        float: left;
+        background: url(text_box.gif) no-repeat;
+    }
+    
+    .orta5 td {
+        font: bold 11px tahoma;
+    }
+    
+    .orta5 td span {
+        font-size: 15px;
+    }

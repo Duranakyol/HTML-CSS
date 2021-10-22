@@ -1,0 +1,63 @@
+.con1 {
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.con2 {
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+
+.con3 {
+    width: 50%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+.con4 {
+    width: 25%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.con5 {
+    width: 25%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+}
+
+.con6 {
+    width: 25%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+
+.con7 {
+    width: 25%;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+
+.text {
+    width: 100%;
+    height: 78px;
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    padding: 22px 0 0 0;
+}
+
+.con8 {
+    width: 25%;
+    height: 200px;
+    float: left;
+}
